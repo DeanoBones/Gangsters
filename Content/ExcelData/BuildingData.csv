@@ -1,0 +1,22 @@
+ID,Business,Value,Profit,Security
+1,Coffee Shop,60000,300,0
+2,Barbers,80000,400,1
+3,Pharmacy,120000,600,2
+4,Pet Shop,60000,300,0
+5,Book Store,50000,250,0
+6,Pool Hall,80000,400,1
+7,Printers,60000,300,0
+8,Pawn Shop,60000,300,1
+9,Tattoo Shop,60000,300,0
+10,Cafe,70000,350,0
+11,Estate Agent,100000,500,1
+12,Accountants,160000,800,2
+13,Financial Advisors,160000,800,2
+14,Plumbers,120000,600,1
+15,Electricians,120000,600,1
+16,Wine Bar,110000,550,2
+17,Gym,80000,400,1
+18,Pub,100000,500,2
+19,Dance Studio,60000,300,0
+20,Massage Parlour,60000,300,0
+21,Chinese Takeaway,60000,300,0
